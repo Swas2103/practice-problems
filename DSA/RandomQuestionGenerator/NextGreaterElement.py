@@ -20,7 +20,6 @@ Hint : The goal is to compute `X` efficiently, ideally in linear time using a
 stack-based approach rather than a naive quadratic scan.
 """
 
-from __future__ import annotations
 import sys
 from typing import List, Optional
 
